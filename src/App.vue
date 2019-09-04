@@ -25,6 +25,7 @@ export default {
   methods:{
     handleSelect(key,keyPath){
       console.log("handle select:"+key+" path:"+keyPath);
+      // this.$router.push()
 
     }
   },
